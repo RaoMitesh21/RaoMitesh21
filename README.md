@@ -176,7 +176,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0D1117&stroke=F8F8F2&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd)](https://git.io/streak-stats)
 
 </a>
 </div>
@@ -196,6 +196,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=dracula)
 
 </div>
+
 ---
 
 ## 🌍 World Rendering (3D Contribution View)
