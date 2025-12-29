@@ -205,7 +205,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 <div align="center">
   
-[!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical"width="100%")
+[!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical)
 
 </div>
 
