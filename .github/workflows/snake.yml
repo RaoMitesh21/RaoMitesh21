@@ -1,5 +1,4 @@
 name: Generate 3D Game Snake
-
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -7,26 +6,25 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+   
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
+      
       - name: Generate 3D Snake
         uses: Platane/snk@v3
         with:
           github_user_name: RaoMitesh21
           outputs: |
-            dist/3d-game-snake.svg
+            dist/3d-game-snake.svg?palette=github-light
             dist/3d-game-snake-dark.svg?palette=github-dark
-            dist/neon-3d.gif?color_snake=#00d9ff&color_dots=#0d1117,#162447,#1f4068,#1b1b2f,#00d9ff
-            dist/retro-game.gif?color_snake=#39ff14&color_dots=#0a0e27,#1b1b2f,#e43f5a,#39ff14,#f9ed69
-            dist/cyberpunk.gif?color_snake=#ff00ff&color_dots=#0a0e27,#541388,#b388eb,#ff006e,#00ffff
+            dist/dark-neon-3d.gif?color_snake=#00ffea&color_dots=#0d1117,#162447,#1f4068,#2d68a0,#00ffea
+            dist/cyberpunk-3d.gif?color_snake=#ff00ff&color_dots=#0a0e27,#1e0859,#541388,#b388eb,#ff006e
+            dist/high-contrast-neon-3d.gif?color_snake=#39ff14&color_dots=#000000,#0a0e27,#1b1b2f,#2e2e2e,#39ff14
             
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
