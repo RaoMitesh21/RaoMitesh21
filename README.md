@@ -232,10 +232,19 @@ const goals2026 = {
 
 <div align="center">
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake.svg"> <img alt="Snake Animation" src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
+<h3>💎 Neon 3D Theme</h3>
+
+![Neon 3D Snake](https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/neon-3d.gif)
+
+<h3>👾 Retro Arcade Theme</h3>
+
+![Retro Game Snake](https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/retro-game.gif)
+
+<h3>🌃 Cyberpunk Theme</h3>
+
+![Cyberpunk Snake](https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/cyberpunk.gif)
 
 </div>
-
 ---
 
 ## 💼 Experience
