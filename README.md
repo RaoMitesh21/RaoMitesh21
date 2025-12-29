@@ -148,7 +148,9 @@ Developed AI-powered prediction model for thunderstorms and gale force wind spee
 Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K+ retail records. Developed interactive Streamlit dashboard for real-time predictions and business intelligence.
 
 </div>
+
 ---
+
 ## 🏅 Achievements & Certifications
 
 <div align="center">
@@ -165,31 +167,26 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 
 ## 📊 GitHub Statistics
 <div align="center">
-  
   <a href="https://github.com/RaoMitesh21">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=dracula&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=tokyonight&hide_border=true" />
   </a>
-  
 </div>
 
 <div align="center">
-  
- <a href="https://github.com/RaoMitesh21">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=dracula&hide_border=true&langs_count=10&hide=html,css" />
-    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=dracula&hide_border=true&area=true" />
+  <a href="https://github.com/RaoMitesh21">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=tokyonight&hide_border=true&area=true" />
   </a>
-  
 </div>
 
 <div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=dracula" alt="Dracula Profile Summary" />
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=tokyonight" alt="Tokyo Night Summary" />
 </div>
+
 ---
 
-### 🌍 World Rendering (3D Contribution View)
+## 🌍 World Rendering (3D Contribution View)
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Game Map" />
 </div>
