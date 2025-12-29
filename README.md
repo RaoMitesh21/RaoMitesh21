@@ -57,7 +57,7 @@ class RaoMitesh:
 - 🤝 **Seeking Help With:** Advanced ML techniques, Deep Learning frameworks (TensorFlow, PyTorch), Cloud deployment (AWS, Azure)
 - 🌱 **Currently Learning:** Advanced ML algorithms, React patterns, Data Engineering, MLOps, and Cloud computing
 - 💬 **Ask Me About:** Python, React.js, Machine Learning (XGBoost, Random Forest), WebSocket, Data Science, SQL, PHP
-- ⚡ **Fun Fact:** Achieved Rank 1 in Data Science with 8.75 CGPA! Built a real-time chat app with WebSockets in semester 3 and developed an AI weather prediction model at a hackathon 🚀
+- ⚡ **Fun Fact:** Achieved Top Perfomer in Data Science with 8.75 CGPA! Built a real-time chat app with WebSockets in semester 3 and developed an AI weather prediction model at a hackathon 🚀
 
 ---
 
@@ -129,24 +129,30 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 [![Portfolio Preview](https://img.shields.io/badge/Live_Demo-raomitesh.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raomitesh.me)
 
 ---
-
-### 💬 [Talksy - Real-Time Chat Application](https://github.com/RaoMitesh21/Talksy)
+<div align="center">
+  
+💬 [𝐓𝐚𝐥𝐤𝐬𝐲 - 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐂𝐡𝐚𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://github.com/RaoMitesh21/Talksy)
 **React • PHP • WebSocket (Ratchet) • MySQL**
 
-Built a full-stack real-time messaging platform enabling instant bidirectional communication for 100+ concurrent users with sub-100ms latency. Engineered responsive React.js interface and secure PHP-MySQL backend.
----
+𝐁𝐮𝐢𝐥𝐭 𝐚 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐫𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐞𝐧𝐚𝐛𝐥𝐢𝐧𝐠 𝐢𝐧𝐬𝐭𝐚𝐧𝐭 𝐛𝐢𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝟏𝟎𝟎+ 𝐜𝐨𝐧𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐮𝐬𝐞𝐫𝐬 𝐰𝐢𝐭𝐡 𝐬𝐮𝐛-𝟏𝟎𝟎𝐦𝐬 𝐥𝐚𝐭𝐞𝐧𝐜𝐲. 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐞𝐝 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐞 𝐏𝐇𝐏-𝐌𝐲𝐒𝐐𝐋 𝐛𝐚𝐜𝐤𝐞𝐧𝐝. 
 
-### 🌩️ [ThunderCast - Weather Prediction AI](https://github.com/RaoMitesh21/ThunderCast)
+</div>
+---
+<div align="center">
+  
+🌩️ [𝐓𝐡𝐮𝐧𝐝𝐞𝐫𝐂𝐚𝐬𝐭 - 𝐖𝐞𝐚𝐭𝐡𝐞𝐫 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐀𝐈](https://github.com/RaoMitesh21/ThunderCast)
 **Python • Machine Learning • Data Analysis**
 
-Developed AI-powered prediction model for thunderstorms and gale force wind speeds at LJ University AI Hackathon. Implemented ML algorithms achieving accurate predictions for early warning systems.
----
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐦𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 𝐭𝐡𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐨𝐫𝐦𝐬 𝐚𝐧𝐝 𝐠𝐚𝐥𝐞 𝐟𝐨𝐫𝐜𝐞 𝐰𝐢𝐧𝐝 𝐬𝐩𝐞𝐞𝐝𝐬 𝐚𝐭 𝐋𝐉 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐀𝐈 𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧. 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐞𝐝 𝐌𝐋 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐚𝐜𝐡𝐢𝐞𝐯𝐢𝐧𝐠 𝐚𝐜𝐜𝐮𝐫𝐚𝐭𝐞 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧𝐬 𝐟𝐨𝐫 𝐞𝐚𝐫𝐥𝐲 𝐰𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦𝐬.
 
-### 📊 [Profit Paradox - Sales Prediction ML System](https://github.com/RaoMitesh21/Profit-Paradox)
+</div>
+---
+<div align="center">
+  
+📊 [𝐏𝐫𝐨𝐟𝐢𝐭 𝐏𝐚𝐫𝐚𝐝𝐨𝐱 - 𝐒𝐚𝐥𝐞𝐬 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐌𝐋 𝐒𝐲𝐬𝐭𝐞𝐦](https://github.com/RaoMitesh21/Profit-Paradox-Intership-Project)
 **Python • XGBoost • Random Forest • Streamlit**
 
-Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K+ retail records. Developed interactive Streamlit dashboard for real-time predictions and business intelligence.
-
+𝐁𝐮𝐢𝐥𝐭 𝐌𝐋 𝐬𝐲𝐬𝐭𝐞𝐦 𝐚𝐜𝐡𝐢𝐞𝐯𝐢𝐧𝐠 𝟖𝟓%+ 𝐑² 𝐬𝐜𝐨𝐫𝐞 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐧𝐠 𝐬𝐚𝐥𝐞𝐬-𝐩𝐫𝐨𝐟𝐢𝐭 𝐩𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐨𝐧 𝟏𝟎𝐊+ 𝐫𝐞𝐭𝐚𝐢𝐥 𝐫𝐞𝐜𝐨𝐫𝐝𝐬. 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐒𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐭 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐟𝐨𝐫 𝐫𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞.
 </div>
 
 ---
