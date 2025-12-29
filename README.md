@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Top+Rank+Scholar+%F0%9F%8F%86;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Top+Rank+Scholar+%F0%9F%8F%86;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raomitesh.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-mitesh-a87876280)
@@ -172,43 +172,30 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 ## 📊 GitHub Statistics
 
 <div align="center">
-
 <a href="https://github.com/RaoMitesh21">
 
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2&count_private=true&include_all_commits=true)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff")
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0D1117&stroke=F8F8F2&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD)](https://git.io/streak-stats)
 
 </a>
-
-</div>
-
-
-
-<div align="center">
-
-<a href="https://github.com/RaoMitesh21">
-
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css)
-
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true&custom_title=RaoMitesh21_Contribution%20Graph)
-
-
-</a>
-
 </div>
 
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical)
+<a href="https://github.com/RaoMitesh21">
 
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=10&hide=html,css)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0D1117&color=BD93F9&line=FF79C6&point=F8F8F2&hide_border=true&area=true&custom_title=RaoMitesh21_Contribution%20Graph)
+
+</a>
 </div>
 
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=dracula)
+
+</div>
 ---
 
 ## 🌍 World Rendering (3D Contribution View)
