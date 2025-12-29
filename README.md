@@ -1,18 +1,267 @@
-# 💫 About Me:
-Building AI-powered applications and real-time communication systems using React, Python, and Machine Learning. Currently developing full-stack projects that combine web technologies with predictive analytics.<br><br>Open-source AI/ML projects, data science applications, full-stack web development, real-time systems, predictive analytics tools, and innovative tech solutions that solve real-world problems.<br><br>Advanced Machine Learning techniques, Deep Learning frameworks (TensorFlow, PyTorch), Cloud deployment (AWS, Azure), scalable system architecture, and production-level MLOps practices.<br><br>Advanced ML algorithms (Neural Networks, Deep Learning), React advanced patterns and state management, Data Engineering pipelines, Cloud computing, MLOps, and modern backend architectures.<br><br>Python programming, React.js and frontend development, Machine Learning models (XGBoost, Random Forest), WebSocket real-time communication, Data Science and EDA, SQL databases, PHP backends, building chat applications, and ML prediction systems.<br><br>Achieved Top Rank in Data Science stream with 8.75 CGPA! Built a real-time chat application with WebSockets in my 3rd semester and developed an AI weather prediction model at a hackathon. I love exploring new AI tools and turning complex problems into elegant solutions! 🚀
+# 👋 Hi, I'm Rao Mitesh
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Rank+1+Scholar+%F0%9F%8F%86;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-mitesh-a87876280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raomitesh12@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raomitesh.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-mitesh-a87876280)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoMitesh21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raomitesh12@gmail.com)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RaoMitesh21&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RaoMitesh21&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaoMitesh21&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=RaoMitesh21&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RaoMitesh21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```python
+class RaoMitesh:
+    def __init__(self):
+        self.username = "RaoMitesh21"
+        self.role = "Data Science Student"
+        self.university = "JG University"
+        self.cgpa = 8.75
+        self.rank = "🏆 #1 in Data Science Stream"
+        self.location = "Ahmedabad, Gujarat, India"
+        
+    def current_focus(self):
+        return [
+            "Building AI-powered applications",
+            "Real-time communication systems",
+            "Full-stack web development",
+            "Machine Learning model deployment"
+        ]
+    
+    def achievements(self):
+        return {
+            "academic": "Rank 1 (Sem 1 & 2) with 8.75 CGPA",
+            "projects": ["Talksy Chat App", "ThunderCast AI", "Profit Paradox ML"],
+            "certifications": "freeCodeCamp Responsive Web Design",
+            "hackathons": "LJ University AI Hackathon Participant"
+        }
+```
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 💡 What I'm Up To
+
+- 🔭 **Currently Working On:** Building AI-powered applications and real-time systems using React, Python, and ML
+- 👯 **Looking to Collaborate On:** Open-source AI/ML projects, data science applications, and full-stack web development
+- 🤝 **Seeking Help With:** Advanced ML techniques, Deep Learning frameworks (TensorFlow, PyTorch), Cloud deployment (AWS, Azure)
+- 🌱 **Currently Learning:** Advanced ML algorithms, React patterns, Data Engineering, MLOps, and Cloud computing
+- 💬 **Ask Me About:** Python, React.js, Machine Learning (XGBoost, Random Forest), WebSocket, Data Science, SQL, PHP
+- ⚡ **Fun Fact:** Achieved Rank 1 in Data Science with 8.75 CGPA! Built a real-time chat app with WebSockets in semester 3 and developed an AI weather prediction model at a hackathon 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### ⚙️ Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🤖 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe-XD&logoColor=#FF61F6)
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 🌐 [Personal Portfolio Website](https://raomitesh.me)
+**React • HTML5 • CSS3 • JavaScript • Responsive Design**
+
+Modern, interactive portfolio showcasing projects, skills, and achievements. Features responsive design, smooth animations, and optimized performance. Custom domain with SSL certificate and GitHub Pages deployment.
+
+[![Portfolio Preview](https://img.shields.io/badge/Live_Demo-raomitesh.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raomitesh.me)
+
+---
+
+### 💬 [Talksy - Real-Time Chat Application](https://github.com/RaoMitesh21/Talksy)
+**React • PHP • WebSocket (Ratchet) • MySQL**
+
+Built a full-stack real-time messaging platform enabling instant bidirectional communication for 100+ concurrent users with sub-100ms latency. Engineered responsive React.js interface and secure PHP-MySQL backend.
+
+---
+
+### 🌩️ [ThunderCast - Weather Prediction AI](https://github.com/RaoMitesh21/ThunderCast)
+**Python • Machine Learning • Data Analysis**
+
+Developed AI-powered prediction model for thunderstorms and gale force wind speeds at LJ University AI Hackathon. Implemented ML algorithms achieving accurate predictions for early warning systems.
+
+---
+
+### 📊 [Profit Paradox - Sales Prediction ML System](https://github.com/RaoMitesh21/Profit-Paradox)
+**Python • XGBoost • Random Forest • Streamlit**
+
+Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K+ retail records. Developed interactive Streamlit dashboard for real-time predictions and business intelligence.
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🎓 Achievement | 📅 Year | 🏆 Details |
+|---------------|---------|-----------|
+| **Rank 1 - Data Science** | 2024 | JG University (Semester 1 & 2) - CGPA: 8.75 |
+| **Responsive Web Design** | 2024 | freeCodeCamp Certification |
+| **AI Hackathon Participant** | 2024 | LJ University - Weather Prediction Model |
+| **ML Intern** | 2024 | CS Vision - Profit Paradox Project |
+
+</div>
+
+---
+
+## 🎯 Current Goals for 2025
+
+```javascript
+const goals2025 = {
+    learning: [
+        "Master Deep Learning & Neural Networks",
+        "Advanced React patterns & Next.js",
+        "Cloud deployment (AWS/Azure)",
+        "MLOps & Production ML pipelines"
+    ],
+    projects: [
+        "Open-source AI/ML contributions",
+        "Personal portfolio v2.0 with animations",
+        "Advanced chat app with AI integration",
+        "Contribute to 10+ open-source repos"
+    ],
+    career: [
+        "Land Data Science internship at top tech company",
+        "Build strong GitHub portfolio (50+ repos)",
+        "Network with 100+ developers",
+        "Speak at tech meetups/conferences"
+    ]
+};
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Rao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/RaoMitesh21)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🔬 Machine Learning Intern | CS Vision *(Virtual)*
+**Aug 2024 - Sept 2024**
+
+- Built Profit Paradox ML system achieving 85%+ R² score using XGBoost and Random Forest
+- Engineered customer segmentation pipeline delivering actionable insights for discount optimization
+- Developed interactive Streamlit dashboard for real-time predictions and data visualizations
+- Conducted comprehensive EDA and preprocessed 10K+ records, outperforming baseline by 40%
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects and connect with fellow developers!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-raomitesh.me-FF5722?style=for-the-badge)](https://raomitesh.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rao-mitesh-a87876280)
+[![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail)](mailto:raomitesh12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/RaoMitesh21)
+
+**"Turning complex problems into elegant solutions, one line of code at a time."** 💻✨
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**✨ Crafted with 💙 by Rao Mitesh**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaoMitesh21&repo=RaoMitesh21&theme=radical)](https://github.com/RaoMitesh21/RaoMitesh21)
+
+</div>
