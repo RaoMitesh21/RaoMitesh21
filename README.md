@@ -163,25 +163,43 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 | **ML Intern** | 2025 | CS Vision - Profit Paradox Project |
 
 </div>
+
 ---
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <a href="https://github.com/RaoMitesh21">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=RaoMitesh21" alt="Mitesh's 3D City" />
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/RaoMitesh21">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=radical&area=true&hide_border=true&point=ffffff" width="450px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RaoMitesh21">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=radical&hide_border=true" width="400px" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <a href="https://github.com/RaoMitesh21">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" />
-    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=tokyonight&hide_border=true&area=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=radical&hide_border=true&card_width=450&hide=html,css" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=tokyonight" alt="Tokyo Night Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaoMitesh21&theme=radical&utcOffset=5" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical" width="100%" />
 </div>
 
 ---
