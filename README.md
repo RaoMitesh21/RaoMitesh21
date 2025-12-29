@@ -207,11 +207,16 @@ const goals2026 = {
 
 ---
 
+## 🌍 World Rendering (3D Contribution View)
+<div align="center"> <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Game Map" /> </div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/RaoMitesh21/RaoMitesh21/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake.svg"> <img alt="Snake Animation" src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
 
 </div>
 
