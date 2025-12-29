@@ -167,17 +167,17 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 <div align="center">
   
   <a href="https://github.com/RaoMitesh21">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Mitesh's GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=dracula&hide_border=true" />
   </a>
   
 </div>
 
 <div align="center">
   
-  <a href="https://github.com/RaoMitesh21">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css" alt="Top Languages" />
-    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+ <a href="https://github.com/RaoMitesh21">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=dracula&hide_border=true&langs_count=10&hide=html,css" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=dracula&hide_border=true&area=true" />
   </a>
   
 </div>
