@@ -182,7 +182,7 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 </a>
 </div>
 <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical)
+[!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=darcula)
 </div>
  
  
