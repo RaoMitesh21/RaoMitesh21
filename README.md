@@ -207,8 +207,10 @@ const goals2026 = {
 
 ---
 
-## 🌍 World Rendering (3D Contribution View)
-<div align="center"> <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Game Map" /> </div>
+### 🌍 World Rendering (3D Contribution View)
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Game Map" />
+</div>
 
 ---
 
