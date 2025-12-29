@@ -134,14 +134,12 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 **React • PHP • WebSocket (Ratchet) • MySQL**
 
 Built a full-stack real-time messaging platform enabling instant bidirectional communication for 100+ concurrent users with sub-100ms latency. Engineered responsive React.js interface and secure PHP-MySQL backend.
-
 ---
 
 ### 🌩️ [ThunderCast - Weather Prediction AI](https://github.com/RaoMitesh21/ThunderCast)
 **Python • Machine Learning • Data Analysis**
 
 Developed AI-powered prediction model for thunderstorms and gale force wind speeds at LJ University AI Hackathon. Implemented ML algorithms achieving accurate predictions for early warning systems.
-
 ---
 
 ### 📊 [Profit Paradox - Sales Prediction ML System](https://github.com/RaoMitesh21/Profit-Paradox)
@@ -150,7 +148,6 @@ Developed AI-powered prediction model for thunderstorms and gale force wind spee
 Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K+ retail records. Developed interactive Streamlit dashboard for real-time predictions and business intelligence.
 
 </div>
-
 ---
 ## 🏅 Achievements & Certifications
 
@@ -164,28 +161,32 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 | **ML Intern** | 2025 | CS Vision - Profit Paradox Project |
 
 </div>
-
 ---
-
 
 ## 📊 GitHub Statistics
 <div align="center">
-<a href="https://github.com/RaoMitesh21">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
-</a>
+  
+  <a href="https://github.com/RaoMitesh21">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Mitesh's GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+  </a>
+  
 </div>
+
 <div align="center">
-<a href="https://github.com/RaoMitesh21">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
-</a>
+  
+  <a href="https://github.com/RaoMitesh21">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+  
 </div>
+
 <div align="center">
-[!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=darcula)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=dracula)
+
 </div>
- 
- 
 ---
 
 ### 🌍 World Rendering (3D Contribution View)
@@ -262,9 +263,10 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 ![Memes](https://readme-jokes.vercel.app/api?theme=gruvbox&hideBorder)
 
 </div>
+
 ---
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-**✨ Crafted with 💙 by Rao Mitesh**
+**✨ Crafted with 💌 and ☕️ by Rao Mitesh**
 </div>
