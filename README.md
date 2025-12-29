@@ -196,7 +196,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css)
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true&custom_title=username=RaoMitesh21_Contribution%20Graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true&custom_title=RaoMitesh21_Contribution%20Graph)
 
 
 </a>
