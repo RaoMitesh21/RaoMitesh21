@@ -211,7 +211,7 @@ const goals2026 = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/RaoMitesh21/RaoMitesh21/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -261,7 +261,4 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 **✨ Crafted with 💙 by Rao Mitesh**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaoMitesh21&repo=RaoMitesh21&theme=radical)](https://github.com/RaoMitesh21/RaoMitesh21)
-
 </div>
