@@ -176,10 +176,10 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 <a href="https://github.com/RaoMitesh21">
 
 
-[!](https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
 
 
-[!](https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff")
+![](https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff")
 
 
 </a>
@@ -193,10 +193,10 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 <a href="https://github.com/RaoMitesh21">
 
 
-[!](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css)
 
 
-[!](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true&custom_title=username=RaoMitesh21_Contribution%20Graph)
 
 
 </a>
@@ -205,7 +205,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 <div align="center">
   
-[!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical)
 
 </div>
 
