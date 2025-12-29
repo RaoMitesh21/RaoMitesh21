@@ -61,6 +61,18 @@ class RaoMitesh:
 
 ---
 
+## 💼 Experience
+
+### 🔬 Machine Learning Intern | CS Vision *(Virtual)*
+**Aug 2025 - Sept 2025**
+
+- Built Profit Paradox ML system achieving 85%+ R² score using XGBoost and Random Forest
+- Engineered customer segmentation pipeline delivering actionable insights for discount optimization
+- Developed interactive Streamlit dashboard for real-time predictions and data visualizations
+- Conducted comprehensive EDA and preprocessed 10K+ records, outperforming baseline by 40%
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -140,35 +152,6 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/RaoMitesh21">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/RaoMitesh21">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical)
-
-</div>
-
----
-
 ## 🏅 Achievements & Certifications
 
 <div align="center">
@@ -179,6 +162,42 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 | **Responsive Web Design** | 2025 | freeCodeCamp Certification |
 | **AI Hackathon Participant** | 2025 | LJ University - Weather Prediction Model |
 | **ML Intern** | 2025 | CS Vision - Profit Paradox Project |
+
+</div>
+
+---
+
+
+## 📊 GitHub Statistics
+<div align="center">
+<a href="https://github.com/RaoMitesh21">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=dracula&hide_border=true"/>
+</a>
+</div>
+<div align="center">
+<a href="https://github.com/RaoMitesh21">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=dracula&hide_border=true&langs_count=10&hide=html,css"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=dracula&hide_border=true"/>
+</a>
+</div>
+<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=radical)
+</div>
+---
+
+### 🌍 World Rendering (3D Contribution View)
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Game Map" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/3d-game-snake-dark.svg" alt="3D Snake">
 
 </div>
 
@@ -208,44 +227,6 @@ const goals2026 = {
     ]
 };
 ```
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Rao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/RaoMitesh21)
-
-</div>
-
----
-
-### 🌍 World Rendering (3D Contribution View)
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Game Map" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/3d-game-snake-dark.svg" alt="3D Snake">
-
-</div>
----
-
-## 💼 Experience
-
-### 🔬 Machine Learning Intern | CS Vision *(Virtual)*
-**Aug 2025 - Sept 2025**
-
-- Built Profit Paradox ML system achieving 85%+ R² score using XGBoost and Random Forest
-- Engineered customer segmentation pipeline delivering actionable insights for discount optimization
-- Developed interactive Streamlit dashboard for real-time predictions and data visualizations
-- Conducted comprehensive EDA and preprocessed 10K+ records, outperforming baseline by 40%
 
 ---
 
