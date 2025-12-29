@@ -232,11 +232,7 @@ const goals2026 = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/neon-3d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/3d-game-snake.svg">
-  <img alt="3D snake eating my contributions" src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/neon-3d.gif" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/3d-game-snake-dark.svg" alt="3D Snake">
 
 </div>
 ---
