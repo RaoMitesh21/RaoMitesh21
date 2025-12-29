@@ -23,8 +23,8 @@ class RaoMitesh:
         self.username = "RaoMitesh21"
         self.role = "Data Science Student"
         self.university = "JG University"
-        self.cgpa = 8.75
-        self.rank = "🏆 #1 in Data Science Stream"
+        self.cgpa = 8.75/10
+        self.rank = "🏆 #Top Performer in Data Science Stream"
         self.location = "Ahmedabad, Gujarat, India"
         
     def current_focus(self):
@@ -161,10 +161,10 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 
 | 🎓 Achievement | 📅 Year | 🏆 Details |
 |---------------|---------|-----------|
-| **Rank 1 - Data Science** | 2024 | JG University (Semester 1 & 2) - CGPA: 8.75 |
-| **Responsive Web Design** | 2024 | freeCodeCamp Certification |
-| **AI Hackathon Participant** | 2024 | LJ University - Weather Prediction Model |
-| **ML Intern** | 2024 | CS Vision - Profit Paradox Project |
+| **Rank 1 - Data Science** | 2025 | JG University (Semester 1 & 2) - CGPA: 8.75 |
+| **Responsive Web Design** | 2025 | freeCodeCamp Certification |
+| **AI Hackathon Participant** | 2025 | LJ University - Weather Prediction Model |
+| **ML Intern** | 2025 | CS Vision - Profit Paradox Project |
 
 </div>
 
@@ -173,7 +173,7 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 ## 🎯 Current Goals for 2025
 
 ```javascript
-const goals2025 = {
+const goals2026 = {
     learning: [
         "Master Deep Learning & Neural Networks",
         "Advanced React patterns & Next.js",
@@ -220,7 +220,7 @@ const goals2025 = {
 ## 💼 Experience
 
 ### 🔬 Machine Learning Intern | CS Vision *(Virtual)*
-**Aug 2024 - Sept 2024**
+**Aug 2025 - Sept 2025**
 
 - Built Profit Paradox ML system achieving 85%+ R² score using XGBoost and Random Forest
 - Engineered customer segmentation pipeline delivering actionable insights for discount optimization
