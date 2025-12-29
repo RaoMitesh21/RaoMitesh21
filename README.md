@@ -261,13 +261,13 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
 
 <div align="center">
 
-![Memes](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+![Memes](https://readme-jokes.vercel.app/api?theme=gruvbox&hideBorder)
 
 </div>
 ---
