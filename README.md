@@ -167,35 +167,37 @@ Built ML system achieving 85%+ R² score predicting sales-profit patterns on 10K
 ---
 
 ## 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=RaoMitesh21" alt="Mitesh's 3D City" />
-</div>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/RaoMitesh21">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&theme=radical&area=true&hide_border=true&point=ffffff" width="450px" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RaoMitesh21">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=radical&hide_border=true" width="400px" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://github.com/RaoMitesh21">
+
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoMitesh21&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+
+
+</a>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/RaoMitesh21">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=radical&hide_border=true&card_width=450&hide=html,css" />
-  </a>
-</div>
+
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaoMitesh21&theme=radical&utcOffset=5" width="100%" />
+
+<a href="https://github.com/RaoMitesh21">
+
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css"/>
+
+
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
+
+
+</a>
+
 </div>
 
 <div align="center">
