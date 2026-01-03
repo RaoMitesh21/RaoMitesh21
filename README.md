@@ -176,7 +176,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd)
 
 </a>
 </div>
@@ -220,26 +220,26 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 ```javascript
 
-const goals2026 = {
-    learning: [
-        "Master Deep Learning & Neural Networks",
-        "Advanced React patterns & Next.js",
-        "Cloud deployment (AWS/Azure)",
-        "MLOps & Production ML pipelines"
-    ],
-    projects: [
-        "Open-source AI/ML contributions",
-        "Personal portfolio v2.0 with animations",
-        "Advanced chat app with AI integration",
-        "Contribute to 10+ open-source repos"
-    ],
-    career: [
-        "Land Data Science internship at top tech company",
-        "Build strong GitHub portfolio (50+ repos)",
-        "Network with 100+ developers",
-        "Speak at tech meetups/conferences"
-    ]
-};
+    const goals2026 = {
+        learning: [
+            "Master Deep Learning & Neural Networks",
+            "Advanced React patterns & Next.js",
+            "Cloud deployment (AWS/Azure)",
+            "MLOps & Production ML pipelines"
+        ],
+        projects: [
+            "Open-source AI/ML contributions",
+            "Personal portfolio v2.0 with animations",
+            "Advanced chat app with AI integration",
+            "Contribute to 10+ open-source repos"
+        ],
+        career: [
+            "Land Data Science internship at top tech company",
+            "Build strong GitHub portfolio (50+ repos)",
+            "Network with 100+ developers",
+            "Speak at tech meetups/conferences"
+        ]
+    };
 
 ```
 
