@@ -8,7 +8,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Top+Rank+Scholar+%F0%9F%8F%86;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raomitesh.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raomitesh.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-mitesh-a87876280)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoMitesh21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raomitesh12@gmail.com)
@@ -126,7 +126,7 @@ class RaoMitesh:
 
 Modern, interactive portfolio showcasing projects, skills, and achievements. Features responsive design, smooth animations, and optimized performance. Custom domain with SSL certificate and GitHub Pages deployment.
 
-[![Portfolio Preview](https://img.shields.io/badge/Live_Demo-raomitesh.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raomitesh.me)
+[![Portfolio Preview](https://img.shields.io/badge/Live_Demo-raomitesh.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raomitesh.in)
 
 ---
   
@@ -218,29 +218,27 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 ## 🎯 Current Goals for 2025
 
-```javascript
-
-    const goals2026 = {
-        learning: [
-            "Master Deep Learning & Neural Networks",
-            "Advanced React patterns & Next.js",
-            "Cloud deployment (AWS/Azure)",
-            "MLOps & Production ML pipelines"
-        ],
-        projects: [
-            "Open-source AI/ML contributions",
-            "Personal portfolio v2.0 with animations",
-            "Advanced chat app with AI integration",
-            "Contribute to 10+ open-source repos"
-        ],
-        career: [
-            "Land Data Science internship at top tech company",
-            "Build strong GitHub portfolio (50+ repos)",
-            "Network with 100+ developers",
-            "Speak at tech meetups/conferences"
-        ]
-    };
-
+```python
+goals2026 = {
+    "learning": [
+        "Master Deep Learning & Neural Networks",
+        "Advanced React patterns & Next.js",
+        "Cloud deployment (AWS/Azure)",
+        "MLOps & Production ML pipelines"
+    ],
+    "projects": [
+        "Open-source AI/ML contributions",
+        "Personal portfolio v2.0 with animations",
+        "Advanced chat app with AI integration",
+        "Contribute to 10+ open-source repos"
+    ],
+    "career": [
+        "Land Data Science internship at top tech company",
+        "Build strong GitHub portfolio (50+ repos)",
+        "Network with 100+ developers",
+        "Speak at tech meetups/conferences"
+    ]
+}
 ```
 
 ---
