@@ -218,7 +218,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 ## 🎯 Current Goals for 2025
 
-```
+```python
 goals2026 = {
     "learning": [
         "Master Deep Learning & Neural Networks",
@@ -239,6 +239,7 @@ goals2026 = {
         "Speak at tech meetups/conferences"
     ]
 }
+
 ```
 
 ---
