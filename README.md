@@ -27,7 +27,7 @@ class RaoMitesh:
         self.username = "RaoMitesh21"
         self.role = "Data Science Student"
         self.university = "JG University"
-        self.cgpa = 8.75/10
+        self.cgpa = 8.85/10
         self.rank = "🏆 #Top Performer in Data Science Stream"
         self.location = "Ahmedabad, Gujarat, India"
         
@@ -160,7 +160,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 | 🎓 Achievement | 📅 Year | 🏆 Details |
 |---------------|---------|-----------|
-| **Rank 1 - Data Science** | 2025 | JG University (Semester 1 & 2) - CGPA: 8.75 |
+| **Rank 1 - Data Science** | 2025 | JG University (Semester 1,2 & 3) - CGPA: 8.85 |
 | **Responsive Web Design** | 2025 | freeCodeCamp Certification |
 | **AI Hackathon Participant** | 2025 | LJ University - Weather Prediction Model |
 | **ML Intern** | 2025 | CS Vision - Profit Paradox Project |
@@ -252,7 +252,7 @@ class Goals2026:
 
 I'm always excited to collaborate on innovative projects and connect with fellow developers!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-raomitesh.me-FF5722?style=for-the-badge)](https://raomitesh.me)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-raomitesh.me-FF5722?style=for-the-badge)](https://raomitesh.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rao-mitesh-a87876280)
 [![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail)](mailto:raomitesh12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/RaoMitesh21)
