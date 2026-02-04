@@ -219,26 +219,30 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 ## 🎯 Current Goals for 2025
 
 ```python
-goals2026 = {
-    "learning": [
-        "Master Deep Learning & Neural Networks",
-        "Advanced React patterns & Next.js",
-        "Cloud deployment (AWS/Azure)",
-        "MLOps & Production ML pipelines"
-    ],
-    "projects": [
-        "Open-source AI/ML contributions",
-        "Personal portfolio v2.0 with animations",
-        "Advanced chat app with AI integration",
-        "Contribute to 10+ open-source repos"
-    ],
-    "career": [
-        "Land Data Science internship at top tech company",
-        "Build strong GitHub portfolio (50+ repos)",
-        "Network with 100+ developers",
-        "Speak at tech meetups/conferences"
-    ]
-}
+class Goals2026:
+    def __init__(self):
+        self.learning = [
+            "Master Deep Learning & Neural Networks",
+            "Advanced React patterns & Next.js",
+            "Cloud deployment (AWS/Azure)",
+            "MLOps & Production ML pipelines"
+        ]
+        self.projects = [
+            "Open-source AI/ML contributions",
+            "Personal portfolio v2.0 with animations",
+            "Advanced chat app with AI integration",
+            "Contribute to 10+ open-source repos"
+        ]
+        self.career = [
+            "Land Data Science internship at top tech company",
+            "Build strong GitHub portfolio (50+ repos)",
+            "Network with 100+ developers",
+            "Speak at tech meetups/conferences"
+        ]
+
+# Usage
+my_goals = Goals2026()
+print(my_goals.learning[0]) # Output: Master Deep Learning & Neural Networks
 
 ```
 
