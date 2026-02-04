@@ -218,6 +218,7 @@ Modern, interactive portfolio showcasing projects, skills, and achievements. Fea
 
 ## 🎯 Current Goals for 2025
 
+
 ```python
 class Goals2026:
     def __init__(self):
@@ -240,9 +241,6 @@ class Goals2026:
             "Speak at tech meetups/conferences"
         ]
 
-# Usage
-my_goals = Goals2026()
-print(my_goals.learning[0]) # Output: Master Deep Learning & Neural Networks
 
 ```
 
