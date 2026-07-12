@@ -1,7 +1,7 @@
 # 👋 Hi, there I'm Rao Mitesh
 
 <div align="center" style="top:5px;">
-<img src="https://github.com/RaoMitesh21/RaoMitesh21/blob/main/b05c9e63df85f3fd0018a5a4832cd853af36ded68acb151803a725b305aef526.png" />
+<img src="https://github.com/RaoMitesh21/RaoMitesh21/blob/main/Mitesh%20Banner.png" />
 </div>
 
 <div align="center">
