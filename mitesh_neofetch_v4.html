@@ -1,0 +1,228 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+*{box-sizing:border-box;margin:0;padding:0}
+.wrap{
+  background:#0d1117;
+  border-radius:10px;
+  border:1px solid #30363d;
+  font-family:'JetBrains Mono',monospace;
+  display:flex;
+  width:100%;
+  overflow:hidden;
+}
+.left{
+  width:40%;
+  padding:14px 4px 14px 12px;
+  border-right:1px solid #21262d;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  overflow:hidden;
+}
+pre#art{
+  font-size:5.8px;
+  line-height:1.20;
+  letter-spacing:0.20px;
+  white-space:pre;
+  margin:0;
+  background:transparent;
+  overflow:hidden;
+}
+.right{
+  width:60%;
+  padding:13px 16px 11px;
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+}
+.head{font-size:12px;font-weight:700;color:#e6edf3;margin-bottom:1px}
+.head .u{color:#58a6ff}
+.hr{border:none;border-top:1px solid #30363d;margin:4px 0 5px}
+.row{display:flex;align-items:baseline;font-size:9px;line-height:1.65;white-space:nowrap;overflow:hidden}
+.dot{color:#58a6ff;margin-right:4px;flex-shrink:0}
+.k{flex-shrink:0}
+.k-g{color:#3fb950}
+.k-o{color:#e3b341}
+.k-p{color:#bc8cff}
+.k-b{color:#58a6ff}
+.k-r{color:#f78166}
+.dots{flex:1;color:#3d444d;overflow:hidden;margin:0 2px}
+.v{flex-shrink:0}
+.w{color:#c9d1d9}.b{color:#58a6ff}.g{color:#3fb950}.o{color:#e3b341}.p{color:#bc8cff}.r{color:#f78166}.dim{color:#8b949e}
+
+.sec{
+  font-size:8.5px;
+  font-weight:700;
+  color:#8b949e;
+  margin:6px 0 2px;
+  display:flex;
+  align-items:center;
+  gap:4px;
+  letter-spacing:0.5px;
+  text-transform:uppercase;
+}
+.sec::after{content:'';flex:1;height:1px;background:#21262d}
+
+/* stat badges */
+.stats-row{display:flex;gap:5px;margin:7px 0 2px;flex-wrap:wrap}
+.badge{
+  font-size:8px;
+  padding:2px 8px;
+  border-radius:20px;
+  font-weight:700;
+  letter-spacing:0.3px;
+  border:1px solid;
+}
+.b-blue{color:#58a6ff;border-color:#1f4a78;background:#0d1f33}
+.b-green{color:#3fb950;border-color:#1a5729;background:#0d2a17}
+.b-orange{color:#e3b341;border-color:#5a4100;background:#2a1f00}
+.b-purple{color:#bc8cff;border-color:#3d2060;background:#1a1033}
+.b-red{color:#f78166;border-color:#6e2c1f;background:#2d1208}
+
+.pal{display:flex;gap:3px;margin-top:8px}
+.sq{width:14px;height:14px;border-radius:2px}
+</style>
+
+<div class="wrap">
+  <div class="left"><pre id="art"></pre></div>
+  <div class="right">
+    <div class="head">mitesh<span class="u">@raomitesh21</span></div>
+    <hr class="hr">
+
+    <div class="row"><span class="dot">.</span><span class="k k-g">OS</span><span class="dots" id="d1"></span><span class="v w">macOS · iOS · Android · Linux</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-g">Uptime</span><span class="dots" id="d2"></span><span class="v w">20 yrs · dev since 2022</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-g">Host</span><span class="dots" id="d3"></span><span class="v w">JG University, Ahmedabad</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-o">Role</span><span class="dots" id="d4"></span><span class="v o">BSc IT · Data Science · Yr 3</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-o">Founder</span><span class="dots" id="d5"></span><span class="v b">careerlens.in</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-g">CGPA</span><span class="dots" id="d6"></span><span class="v g">8.83 / 10.0</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-g">Rank</span><span class="dots" id="d7"></span><span class="v g">#1 stream · Sem 1, 2, 3, 4 · Sem 5 →</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-g">IDE</span><span class="dots" id="d8"></span><span class="v w">Cursor · VS Code · Jupyter</span></div>
+
+    <div class="sec">Languages</div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">Code</span><span class="dots" id="d9"></span><span class="v w">Python · JS · Java · C++ · SQL · PHP</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">Web</span><span class="dots" id="d10"></span><span class="v w">React · HTML · CSS · Streamlit</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">ML</span><span class="dots" id="d11"></span><span class="v w">XGBoost · Sklearn · Pandas · NumPy</span></div>
+
+    <div class="sec">Projects</div>
+    <div class="row"><span class="dot">.</span><span class="k k-o">CareerLens</span><span class="dots" id="d12"></span><span class="v b">AI career platform · Founder</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-g">Profit Paradox</span><span class="dots" id="d13"></span><span class="v g">XGBoost · R²&gt;0.85 · Streamlit</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-p">ThunderCast</span><span class="dots" id="d14"></span><span class="v p">Weather AI · LJ Hackathon</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">Talksy</span><span class="dots" id="d15"></span><span class="v w">Real-time chat · React + WebSocket</span></div>
+
+    <div class="sec">Contact</div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">Email</span><span class="dots" id="d16"></span><span class="v b">raomitesh12@gmail.com</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">Portfolio</span><span class="dots" id="d17"></span><span class="v b">raomitesh.in</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">LinkedIn</span><span class="dots" id="d18"></span><span class="v b">rao-mitesh-a87876280</span></div>
+    <div class="row"><span class="dot">.</span><span class="k k-b">GitHub</span><span class="dots" id="d19"></span><span class="v b">RaoMitesh21</span></div>
+
+    <div class="sec">Stats</div>
+    <div class="stats-row">
+      <span class="badge b-green">🏆 Rank #1 · 4 Sems</span>
+      <span class="badge b-orange">🚀 Founder · CareerLens</span>
+      <span class="badge b-blue">⚡ CGPA 8.83</span>
+      <span class="badge b-purple">🤖 ML Intern · CS Vision</span>
+      <span class="badge b-red">🔥 R² &gt; 0.85</span>
+      <span class="badge b-blue">🎓 JG University</span>
+      <span class="badge b-green">💻 6 Repos</span>
+      <span class="badge b-orange">🏅 LJ AI Hackathon</span>
+    </div>
+
+    <div class="pal">
+      <div class="sq" style="background:#0d1117;border:1px solid #30363d"></div>
+      <div class="sq" style="background:#161b22"></div>
+      <div class="sq" style="background:#21262d"></div>
+      <div class="sq" style="background:#3fb950"></div>
+      <div class="sq" style="background:#58a6ff"></div>
+      <div class="sq" style="background:#e3b341"></div>
+      <div class="sq" style="background:#f78166"></div>
+      <div class="sq" style="background:#bc8cff"></div>
+      <div class="sq" style="background:#e6edf3"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const RAW = `@@@@&&&&&&&&&$XX+=;;=:::--------:::;===xX$$$$XXXx-\`XXxx
+&&&&&&&&&&$$$$XXx+===:::::------:::;;=+xXXXXXXXxx-\`xxxx
+&$$$$$$$$$$$XXXXx++=;.-.  .-:--:::;;==+xXXXXXxxx+-\`x+++
+$$$$X$X$$$$XXXXxx++:        .:-:::;;==++xxXXxxx++-\`x+++
+XXXXXXXXXXXXXXXxx+;          -::::;;==++xxxXxxxx+-\`xxx+
+XXxxxxxxXxxxxxxxx=           \`:::;;;==++xxxxxxx++-\`xxx+
+xxxxxxxxxxxx++++:\`            .:::;;;=++xxxxxxx+=-\`xxx+
++++xx+x++++++++;               -::;;;;=++xxxxxx+=-\`xxx+
+++++++++=+++=+;\`       \`.\`      ::;;;;=++xxxxx+==-\`xx+=
+++==++========\`       .;++\`     .:::;===+++xxx+==.\`+x+=
++============;       -;;+x      \`-:::;;=+++++++=;.\`=++=
+======;;;;;;;=\`    \`;+=+XX-     .;;==;;=========:.\`===;
+=====;;;;;;;;=;    -:;=;--:-   \`-.-;=x;;;==;;;;;:.\`;;;:
+;;=;;;;;;;;;;;;  \`\`\` \`-\`  \`.\`  \`\` \`. \`::;;;;;;::-\`\`;:::
+;;;;;;:;;:::;;;. \`\`  \`:\`   \`\`   \`\`\`  \`x;-:::::::-\`\`::::
+;;::;;::::::::::  =--=X;;;;x= \`.\`\`\`\`.\`:\`+-::-----..\`::::
+;;:::;::::::::--- xx;x&=:xX$= \`:..:;;. \`+:---..--.  :---
+;::::::::::::-----x=.:-:.:xX;-+ \`=$:-=..;=.-......  :--:
+:::::::::--------:=-::  :;-=;--  .:xx=-.:=-.......  -.--
+::::::-----------.;- -:-  .-;:  .. \`+x:--:-.......  --.--
+::::::--:-----....:----::.-:. \`-;  -  \`  :x+;:......  --.-
+:::--:----........--;:.:;---.=x=-.-  -x&+....... .--..-
+:--------.........--:+==;--.:xX;:+=:--;$X-......  --...
+--------........-:;-.. .  . :;x$=  .;xx+=x;......  --...
+--------.......-;=+  :.   \`-+;$X+-  \`\`=x=+=........--...
+-------........;+$X ::  \`:=++@@&+--:;;.:=+-....  .--..
+----.---.  .---;@#& \`-;--:;=;$####@x;---:=x;--.  .-:-.
+-------.  -+;....X@#; \`;::;==+#@@@@##&  \`:;;x+:-..  -:.
+..-.....=@#=.--.X##$  =+++xX&@####@@#+  \`:=X;;-...  -;....
+-.....  =#@@=-::;@&=@x+$$$$@&:x@@##@@@:   =:-x:..  -:.
+....   -@@@@;-:;-Xx;+&&$&&@$+==X@###@@@;    +$;   .-.
+..     +#@#@:-;::@@&&$$&&&X$@@@@#####@@@. ;+Xx.    .
+       $@@#@.x+-x#@#@@@@@&@##########@@#X-=++X-
+       .@#@#&.x;-@@@#####@##@@@#######@@@&-:=+x=
+   \`   -@@@@$.x.+#@#####@@@@#########@@&@@;.;++x.
+       ;#@@@X-+.&#@######@@##########@@&&#x  -==++
+       =#@@@x:;-#@####@@#@@##@@######@@&&#$.  :=+x=
+       x#@@&X=.=#@###@@@#@@#@@@######@@@&@@: \`-;++$x
+       X#@@@x=-&#@####@@#@@##@#######@@@$&@=.-;=++@+
+       $#@@&X;x#@########@@##########@@&X&#x--:;++X@
+       &@@@&+;X@@#####@@@@@##@@@#####@@&x&@X--:;=++@
+      \`@@@@&=+&#@###@@@@#@@@@@@@@@@@@@&$;$&$:-:;;+$#;
+      .@@@@$=xx#@#@@@@@@#@@@@@@@@@@@&&$X-X$@=.-:;$##X
+      .@@@@$=+x@@@@@@@@@#@@@@&&&&&&&&$xx-x@@$=:;$#@@&
+      -@@@@$;;+@@@@@&&@@#@@@@&&&&&&&$Xx+.;@@&&$$@$$@#`;
+
+const PALETTE = {
+  '@':'#58a6ff','#':'#58a6ff','&':'#79c0ff',
+  '$':'#a5d6ff','X':'#cae8ff','x':'#d2e7ff',
+  '+':'#8b949e','=':'#6e7681',';':'#484f58',
+  ':':'#30363d','-':'#21262d','.':'#1c2128',
+  '`':'#161b22',' ':'transparent'
+};
+
+function colorize(text) {
+  const pre = document.getElementById('art');
+  pre.innerHTML = '';
+  text.split('\n').forEach((line, li, arr) => {
+    for (const ch of line) {
+      const s = document.createElement('span');
+      s.style.color = PALETTE[ch] || '#8b949e';
+      s.textContent = ch;
+      pre.appendChild(s);
+    }
+    if (li < arr.length - 1) pre.appendChild(document.createTextNode('\n'));
+  });
+}
+colorize(RAW);
+
+function fillDots(id) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  const row = el.closest('.row');
+  let used = 0;
+  row.querySelectorAll('span').forEach(s => { if (s !== el) used += s.offsetWidth; });
+  const n = Math.max(1, Math.floor((row.offsetWidth - used - 6) / 5.7));
+  el.textContent = '.'.repeat(n);
+}
+
+function runFill() { for (let i = 1; i <= 19; i++) fillDots('d' + i); }
+setTimeout(runFill, 120);
+setTimeout(runFill, 500);
+</script>
