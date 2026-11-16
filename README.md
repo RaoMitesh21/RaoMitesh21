@@ -188,26 +188,18 @@ Responsive, animated personal site with a custom domain and SSL, showcasing my p
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By the Numbers
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaoMitesh21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=8&hide=html,css" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0D1117&color=BD93F9&line=FF79C6&point=F8F8F2&hide_border=true&area=true&custom_title=RaoMitesh21%20Contribution%20Graph" alt="Contribution graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-snake-dark.svg" alt="Contribution snake" />
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>8.83</h2><b>CGPA</b><br/>out of 10</td>
+    <td align="center" width="25%"><h2>#1</h2><b>Rank</b><br/>Data Science stream</td>
+    <td align="center" width="25%"><h2>85%+</h2><b>R² Score</b><br/>Profit Paradox ML model</td>
+    <td align="center" width="25%"><h2>1</h2><b>Live Product</b><br/><a href="https://careerlens.in">CareerLens</a></td>
+  </tr>
+</table>
 
 </div>
 
