@@ -188,22 +188,6 @@ Responsive, animated personal site with a custom domain and SSL, showcasing my p
 
 ---
 
-## 📊 By the Numbers
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>8.83</h2><b>CGPA</b><br/>out of 10</td>
-    <td align="center" width="25%"><h2>#1</h2><b>Rank</b><br/>Data Science stream</td>
-    <td align="center" width="25%"><h2>85%+</h2><b>R² Score</b><br/>Profit Paradox ML model</td>
-    <td align="center" width="25%"><h2>1</h2><b>Live Product</b><br/><a href="https://careerlens.in">CareerLens</a></td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 📈 GitHub Analytics
 
