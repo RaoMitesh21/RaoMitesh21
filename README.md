@@ -209,14 +209,15 @@ Responsive, animated personal site with a custom domain and SSL, showcasing my p
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RaoMitesh21&theme=dracula&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub trophies" />
+<a href="https://gitscore.live/RaoMitesh21">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/RaoMitesh21?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/RaoMitesh21?style=card" alt="GitScore for RaoMitesh21" />
+  </picture>
+</a>
 
 <br/><br/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" alt="GitHub streak" />
 
