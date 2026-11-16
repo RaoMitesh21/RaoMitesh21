@@ -205,6 +205,56 @@ Responsive, animated personal site with a custom domain and SSL, showcasing my p
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaoMitesh21&theme=dracula&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=RaoMitesh21&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoMitesh21&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=RaoMitesh21&theme=dracula&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoMitesh21&bg_color=0D1117&color=BD93F9&line=FF79C6&point=F8F8F2&hide_border=true&area=true&custom_title=Mitesh%20Rao%20%E2%80%A2%20Contribution%20Graph" alt="Contribution graph" />
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoMitesh21&theme=dracula" alt="Profile details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaoMitesh21&theme=dracula" alt="Repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaoMitesh21&theme=dracula" alt="Most commit language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaoMitesh21&theme=dracula" alt="Stats" />
+
+</div>
+
+---
+
+## 🌍 3D Contribution World
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution view" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/RaoMitesh21/RaoMitesh21/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
 ## 🎯 Goals for 2027
 
 ```python
