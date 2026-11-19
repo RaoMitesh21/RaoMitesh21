@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mitesh%20Rao&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Founder%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Full-Stack&descSize=20&descAlignY=58" alt="Mitesh Rao banner" />
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Founder+of+CareerLens+%E2%80%94+AI+career+intelligence;Beyond+The+Algorithm's+%F0%9F%A7%A0+%F0%9F%A4%96;I+ship+ML+models+and+full-stack+products;Turning+data+into+decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Founder+of+CareerLens+%E2%80%94+AI+career+intelligence;Beyond+The+Algorithm's+%F0%9F%A7%A0+%F0%9F%A4%96;I+ship+ML+models+and+full-stack+products;Turning+data+into+decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-raomitesh.in-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raomitesh.in)
 [![CareerLens](https://img.shields.io/badge/Founder-CareerLens.in-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://careerlens.in)
